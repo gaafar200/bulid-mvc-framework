@@ -1,0 +1,16 @@
+{
+    "name": "jaafar/laravel",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "mahmoud2000",
+            "email": "al.gaafar200@gmail.com"
+        }
+    ],
+
+    "require": {}
+}
